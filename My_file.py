@@ -1,1 +1,1 @@
-print("update function with merge conflict") 
+print("update function with merge conflict 2") 
